@@ -1,5 +1,6 @@
-import javax.swing.plaf.synth.SynthOptionPaneUI;
 
+
+//김보근
 public class CastingBasic1 {
 
 	public static void main(String[] args) {

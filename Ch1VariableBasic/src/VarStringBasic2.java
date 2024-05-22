@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// 소곱창
 public class VarStringBasic2 {
 	
 	public static void main(String[] args) {
